@@ -1,11 +1,10 @@
-# CHEM277B Final Project fall 2023
+# CHEM277B Fall 2023
+# Individual Final Project - Molecular Energy Prediction
 ## Olukorede Ogundele
 
-This is my final project repository for CHEM277B: Machine Learning Algorithms. This repository contains a model that predicts energies of molecules in the ANI1 dataset. ANI files 1-4 are used for training and 5 is used for testing.
+In this individual project, I engineered two deep learning models—an Artificial Neural Network (ANN) and a Residual Neural Network—specifically designed for predicting molecular energies within the ANI1 dataset. To enhance the models' understanding of molecular structures, I employed the Many Body Tensor Representation, a method encoding structures through a distribution of various structural motifs. Leveraging Python packages, including numpy, scikit-learn, and PyTorch, I implemented and fine-tuned both the ANN and ResNet models.
 
-Data files can be found here: https://figshare.com/articles/dataset/ANI-1_data_set_20M_DFT_energies_for_non-equilibrium_small_molecules/5287732
-
-Files found in this directory are:
+Data files can be found here: https://figshare.com/articles/dataset/ANI-1_data_set_20M_DFT_energies_for_non-equilibrium_small_molecules/5287732. Files found in this directory are:
 
 - predicting_ani_energies.ipynb: this Jupyter notebook contains all the code for unpacking and uncoding molecules and then building an running an ANN and RNN. It also contains commentary on what worked and what did not.
 
