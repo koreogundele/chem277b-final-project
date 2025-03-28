@@ -1,4 +1,4 @@
-# CHEM277B Fall 2023
+# CHEM277B Fall 2023 (last uppdated March 2025)
 # Individual Final Project - Molecular Energy Prediction
 ## Olukorede Ogundele
 
